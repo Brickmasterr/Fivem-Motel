@@ -1,4 +1,4 @@
-# Fivem-Motel - esx_propertymotels
+# Fxxx - esx_propertymotels
 
 
 # Gereksinimler
